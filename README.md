@@ -2,8 +2,6 @@
 Author:Wenkang Xu
 
 Last Modified: Jul, 2023
-
-Contact person email: 22131113@zju.edu.cn
 # SLA-VBI
 The source code for the paper for "Successive Linear Approximation VBI for Joint Sparse Signal Recovery and Dynamic Grid Parameters Estimation"
 
